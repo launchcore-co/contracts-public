@@ -1,0 +1,7 @@
+{
+    "projectName": "LPad.Dapp.Contracts",
+    "namespace": "LPad.Dapp.Contracts",
+    "lang":0,
+    "autoCodeGen":true,
+    "projectPath": "../dapp/src/LPad.Dapp.Contracts"
+}

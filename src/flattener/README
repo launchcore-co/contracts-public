@@ -1,0 +1,1 @@
+truffle-flattener .\src\contracts\Nft.Market\LPadMarket.sol > .\src\flattener\lpadmarket.sol
